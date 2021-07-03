@@ -1,4 +1,4 @@
-### Hello World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+0### Hello World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on Web Development ( MERN Stack )
 - 🌱 I’m currently learning Blockchain Technology
