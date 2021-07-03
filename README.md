@@ -7,4 +7,4 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karmanya17l&show_icons=true&theme=default" alt="karmanyaverma" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karmanya17&show_icons=true&theme=default" alt="karmanyaverma" />
