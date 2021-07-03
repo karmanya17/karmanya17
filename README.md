@@ -7,8 +7,8 @@
 
 ## Github Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshilagrawal">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karmanya17">
 
-<img src="https://github-readme-stats.vercel.app/api?username=darshilagrawal&count_private=true&show_icons=true&theme=light" alt="Darshil's Github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karmanya17&count_private=true&show_icons=true&theme=light" alt="Karmanya's Github stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilagrawal&layout=compact&theme=light"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmanya17&layout=compact&theme=light"/>
