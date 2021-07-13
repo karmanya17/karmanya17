@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Blockchain Technology
 - 👯 I’m looking to collaborate on Web Development Projects and Ideations
 
-### 📫 Reach me at 
+### 📫 Connect
 [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/karmanya-verma-5b1b0a1b5/) 
 [![Email](./images/gmail.png)](mailto:karmanyaverma23@gmail.com)
 
