@@ -1,7 +1,7 @@
 #### Hello World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on Web Development ( MEAN Stack )
-- 🌱 I’m currently learning Blockchain Technology
+- 🌱 I’m currently learning Blockchain Technology .
 - 👯 I’m looking to collaborate on Web Development Projects and Ideations
 
 ### 📫 Connect
