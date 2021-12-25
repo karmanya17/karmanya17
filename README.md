@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Development ( MEAN Stack )
 - 🌱 I’m currently learning Blockchain Technology .
-- 👯 I’m looking to collaborate on Web Development Projects and Ideations
+- 👯 I’m looking to collaborate on Web Development Projects and Ideations .
 
 ### 📫 Connect
 [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/karmanya-verma-5b1b0a1b5/) 
